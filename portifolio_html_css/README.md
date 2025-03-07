@@ -1,17 +1,19 @@
-<h1>Portifolio</h1>
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-<h2>Sobre</h2>
-<p>Portifolio-HTML-e-CSS-Curso na Alura.</p>
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
-## Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-<h2>Time</h2>
-<div>
- <img src="https://avatars.githubusercontent.com/u/66964523?v=4" 
-   alt="" size="32" height="32" width="32" data-view-component="true" 
-   class="avatar circle"> 
-</div>
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Joana Santos
+
+### Linkedin: https://www.linkedin.com/school/aluracursos/
+
+```
